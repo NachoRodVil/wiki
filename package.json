@@ -1,7 +1,7 @@
 {
   "name": "wiki",
   "version": "1.0.0",
-  "description": "",
+  "description": "hola",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -11,10 +11,12 @@
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.21.3"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NachoRodVil/wiki.git"
   },
   "author": "",
   "license": "ISC"
